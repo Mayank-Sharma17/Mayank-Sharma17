@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Java || DSA**
 
-- 🌱 I’m currently learning **HTML5 and CSS**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
