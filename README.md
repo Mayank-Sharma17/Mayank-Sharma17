@@ -12,6 +12,7 @@
 - Fun fact **hungry learner**
 
 [![@mayank_sharma's Holopin board](https://holopin.me/mayank_sharma)](https://holopin.io/@mayank_sharma)
+<a href="https://data.typeracer.com/pit/profile?user=drazox_17&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=drazox_17" border="0" alt="TypeRacer.com scorecard for user drazox_17"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
