@@ -5,11 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-sharma17&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-sharma17" /> </p>
 
 - I’m currently working on **Java || DSA**
-- I’m currently learning **HTML5 and CSS**
+- I’m currently learning **frontend Dev**
 - I’m looking to collaborate on **frontend projects**
 - Ask me about **tech related stuff**
 - How to reach me **mayanksharmakv@gmail.com**
-- Fun fact **hungry learner**
 
 [![@mayank_sharma's Holopin board](https://holopin.me/mayank_sharma)](https://holopin.io/@mayank_sharma)
 
