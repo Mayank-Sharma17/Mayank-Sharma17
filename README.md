@@ -12,6 +12,8 @@
 
 [![@mayank_sharma's Holopin board](https://holopin.me/mayank_sharma)](https://holopin.io/@mayank_sharma)
 
+<a href="https://quine.sh/profile/drazoxQ17"><img src="https://stats.quine.sh/drazoxQ17/github" alt="drazoxQ17's GitHub stats" width="840px"></a>
+
 <a href="https://data.typeracer.com/pit/profile?user=drazox_17&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=drazox_17" border="0" alt="TypeRacer.com scorecard for user drazox_17"/></a>
 
 <h3 align="left">Connect with me:</h3>
