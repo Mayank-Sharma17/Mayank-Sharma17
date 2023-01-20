@@ -2,7 +2,7 @@
 
 ## 🔗 Connect with me on
 
-<a href="https://www.linkedin.com/in//"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:mayanksharmakv@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/@MayankS93339625"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>  <a href="https://hashnode.com/"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in//"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:mayanksharmakv@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/@MayankS93339625"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>  <a href="https://hashnode.com/@Mayank17"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
 
 ## 👨🏻‍💻 I am currently a
 
