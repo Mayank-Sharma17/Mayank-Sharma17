@@ -12,7 +12,7 @@
 
 ## ⚡ I was a
 
-- Contributor @Hacktoberfest '22
+- Contributor @Hacktoberfest 2022
 
 ## 🙋‍♂️ More about me
 
