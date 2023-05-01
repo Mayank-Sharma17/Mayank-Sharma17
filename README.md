@@ -6,8 +6,6 @@ I am currently a sophomore studying computer science, with a keen interest in De
 <br>
 
 ## Technologies 
-<hr>
-
 ### Languages :
 ![C++](https://img.shields.io/badge/-C++-007396?style=for-the-badge&logo=C&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=ffdd54)
@@ -22,9 +20,8 @@ I am currently a sophomore studying computer science, with a keen interest in De
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=Figma&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=Figma&logoColor=black
 ## Achievements
-<hr>
 
 **Contributor @Hacktoberfest 2022**
 
