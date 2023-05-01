@@ -24,10 +24,17 @@ I am currently a sophomore studying computer science, with a keen interest in De
 
 ## Github Stats
 
-<div align="center">
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&cache_seconds=86400&theme=gotham"/></td>
+    <td><img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Sharma17&theme=gotham&hide_border=false"/></td>
+  </tr>
+</table>
+
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&cache_seconds=86400&theme=gotham"/> 
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Sharma17&theme=gotham&hide_border=false" />
-</div>
+</div> -->
 
 ## Achievements
 
