@@ -20,9 +20,9 @@ I am currently a sophomore studying computer science, with a keen interest in De
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=Figma&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
-## Github Stats
+## GitHub Stats
 
 <table>
   <tr>
@@ -30,11 +30,6 @@ I am currently a sophomore studying computer science, with a keen interest in De
     <td><img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Sharma17&theme=gotham&hide_border=true"/></td>
   </tr>
 </table>
-
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&cache_seconds=86400&theme=gotham"/> 
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Sharma17&theme=gotham&hide_border=false" />
-</div> -->
 
 ## Achievements
 
