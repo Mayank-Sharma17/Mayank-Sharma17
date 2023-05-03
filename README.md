@@ -37,6 +37,16 @@ I am currently a sophomore studying computer science, with a keen interest in De
  </div>
 
 </details>
+<details>
+ <summary>Top Languages</summary>
+ 
+ <div align="center">
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Sharma17&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ </div>
+
+</details>
 <br>
 <table>
   <tr>
