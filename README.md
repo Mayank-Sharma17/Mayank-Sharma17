@@ -29,15 +29,15 @@ I am currently a sophomore studying computer science, with a keen interest in De
 ## GitHub Stats
 <details>
  <summary>GitHub Trophy</summary>
-
+ <br>
  <div align="center">
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Mayank-Sharma17&theme=onestar&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
  </div>
- 
-</details>
 
+</details>
+<br>
 <table>
   <tr>
     <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&cache_seconds=86400&theme=gotham&hide_border=true"/></td>
