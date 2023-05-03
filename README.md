@@ -31,7 +31,7 @@ I am currently a sophomore studying computer science, with a keen interest in De
  <summary>GitHub Trophy</summary>
  <div align="center">
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=Mayank-Sharma17&no-frame=true&theme=onestar&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Mayank-Sharma17&theme=onestar&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
  </div>
 </details>
