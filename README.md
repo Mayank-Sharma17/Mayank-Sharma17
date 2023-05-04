@@ -5,7 +5,7 @@ I am currently a sophomore studying computer science, with a keen interest in De
 
 <br>
 
-Let's Connect 🔗: **Click on the banner**
+**Let's Connect 🔗: Click on the banner**
 </div>
 <br>
 
