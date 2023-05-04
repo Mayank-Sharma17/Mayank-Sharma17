@@ -2,6 +2,10 @@
 
 <div align="center">
 I am currently a sophomore studying computer science, with a keen interest in DevOps and open source contributions. I love learning and exploring new technologies, and contributing to projects that benefit the community.
+
+<br>
+
+Let's Connect 🔗: **Click on the banner**
 </div>
 <br>
 
