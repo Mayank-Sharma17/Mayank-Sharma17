@@ -17,7 +17,7 @@ I am currently a sophomore studying computer science, with a keen interest in De
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-343a40?style=flat-square&logo=markdown&logoColor=white)
 
 ### Libraries & Framework :
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
