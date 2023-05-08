@@ -30,7 +30,7 @@ I am currently a sophomore studying computer science, with a keen interest in De
 ![Canva](https://img.shields.io/badge/Canva-blue?style=flat-square&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-blueviolet?style=flat-square&logo=Figma&logoColor=white)
 
-## GitHub Stats
+## My GitHub Stats
 <details>
  <summary>GitHub Trophy</summary>
  <br>
