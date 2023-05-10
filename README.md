@@ -28,7 +28,7 @@ I am currently a sophomore studying computer science, with a keen interest in De
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=flat-square&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-blueviolet?style=flat-square&logo=Figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-a259ff?style=flat-square&logo=Figma&logoColor=white)
 
 ## My GitHub Stats
 <details>
