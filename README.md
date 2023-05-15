@@ -67,4 +67,4 @@ I am currently a sophomore studying computer science, with a keen interest in De
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/AbbeySantos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+<a href="https://www.buymeacoffee.com/mayank17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="28" width="119"></a>
