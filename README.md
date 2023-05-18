@@ -54,8 +54,8 @@ I am currently a sophomore studying computer science, with a keen interest in De
 <br>
 <table>
   <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&cache_seconds=86400&theme=gotham&hide_border=true"/></td>
-    <td><img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Sharma17&theme=gotham&hide_border=true"/></td>
+    <td><a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham"/></a></td>
+    <td><a href="https://git.io/streak-stats"><img height="200" src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham"/></a></td>
   </tr>
 </table>
 
