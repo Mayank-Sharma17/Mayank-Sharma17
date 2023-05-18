@@ -46,7 +46,7 @@ I am currently a sophomore studying computer science, with a keen interest in De
  
  <div align="center">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Sharma17&bg_color=0c1014&text_color=ffffff&title_color=a8a8a8&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 
@@ -54,8 +54,8 @@ I am currently a sophomore studying computer science, with a keen interest in De
 <br>
 <table>
   <tr>
-    <td><a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham"/></a></td>
-    <td><a href="https://git.io/streak-stats"><img height="200" src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham"/></a></td>
+    <td><a href="https://github.com/anuraghazra/github-readme-stats"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham&hide_border=true"/></a></td>
+    <td><a href="https://git.io/streak-stats"><img height="200em" src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham&hide_border=true"/></a></td>
   </tr>
 </table>
 
