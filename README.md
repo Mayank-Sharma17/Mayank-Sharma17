@@ -13,7 +13,8 @@ I am currently a sophomore studying computer science, with a keen interest in De
 ### Languages :
 ![Java](https://img.shields.io/badge/-Java-important?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -66,5 +67,6 @@ I am currently a sophomore studying computer science, with a keen interest in De
 [![An image of @mayank_sharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank_sharma)](https://holopin.io/@mayank_sharma)
 
 ## Support
-
-<a href="https://www.buymeacoffee.com/mayank17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/mayank17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+</div>
