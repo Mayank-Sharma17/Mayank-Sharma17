@@ -1,4 +1,4 @@
-<p align="center"><a href="https://linkfree.io/Mayank-Sharma17"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/113251342/235408834-20314bde-8dda-45ad-882c-2def0029faf3.png"></a></p>
+<p align="center"><a href="https://linkfree.io/Mayank-Sharma17"><img alt="Profile Banner" src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/20e35d04-d1d4-4b90-9fa9-4ec1e5b48965"></a></p>
 
 <div align="center">
 I am currently a sophomore studying computer science, with a keen interest in DevOps and open source contributions. I love learning and exploring new technologies, and contributing to projects that benefit the community.
@@ -55,8 +55,8 @@ I am currently a sophomore studying computer science, with a keen interest in De
 <br>
 <table>
   <tr>
-    <td><a href="https://github.com/anuraghazra/github-readme-stats"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham&hide_border=true"/></a></td>
-    <td><a href="https://git.io/streak-stats"><img height="200em" src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham&hide_border=true"/></a></td>
+    <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham&hide_border=true"/></a></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham&hide_border=true"/></a></td>
   </tr>
 </table>
 
