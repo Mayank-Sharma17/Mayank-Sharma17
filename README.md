@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://linkfree.io/Mayank-Sharma17"><img alt="Profile Banner" src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/20e35d04-d1d4-4b90-9fa9-4ec1e5b48965"/></a>
+<a href="https://linkfree.io/Mayank-Sharma17"><img alt="Profile Banner" src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/20e35d04-d1d4-4b90-9fa9-4ec1e5b48965.png"/></a>
 </div>
 
 <p align="center">
