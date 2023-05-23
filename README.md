@@ -1,13 +1,10 @@
-<p align="center"><a href="https://linkfree.io/Mayank-Sharma17"><img alt="Profile Banner" src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/20e35d04-d1d4-4b90-9fa9-4ec1e5b48965"></a></p>
-
 <div align="center">
-I am currently a sophomore studying computer science, with a keen interest in DevOps and open source contributions. I love learning and exploring new technologies, and contributing to projects that benefit the community.
-
-<br>
-
-**Let's Connect 🔗: Click on the banner**
+<a href="https://linkfree.io/Mayank-Sharma17"><img alt="Profile Banner" src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/20e35d04-d1d4-4b90-9fa9-4ec1e5b48965"></a>
 </div>
-<br>
+
+<p align="center">
+I am currently a sophomore studying computer science, with a keen interest in DevOps and open source contributions, currently I am learning (MERN) stack WebDev. I love learning and exploring new technologies, and contributing to projects that benefit the community.
+</p>
 
 ## Technologies 
 ### Languages :
