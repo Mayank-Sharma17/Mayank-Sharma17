@@ -1,4 +1,6 @@
-[![Profile-Banner](https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/60396e69-cebe-4929-abe2-1188e34d40a4)](https://linkfree.io/Mayank-Sharma17)
+<div align="center">
+<a href="https://linkfree.io/Mayank-Sharma17"><img src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/60396e69-cebe-4929-abe2-1188e34d40a4" alt="Profile Banner"></a>
+</div>
 
 <p align="center">
 I am currently a sophomore studying computer science, with a keen interest in DevOps and open source contributions, currently I am learning (MERN) stack WebDev. I love learning and exploring new technologies, and contributing to projects that benefit the community.
