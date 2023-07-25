@@ -1,7 +1,7 @@
 <h1 align ="center">Hi, I am Mayank</h1>
 
 <p>
-Currently, I am learning how to develop <b>Web applications</b> using the <b>MERN stack</b>. In addition, I have a keen interest in <b>open source</b> contributions and DevOps. To expand my skills, I enjoy learning and exploring new technologies as well as contributing in projects that benefit the community . 
+Currently, I am learning how to develop <b>Web applications</b> using the <b>MERN stack</b>. In addition, I have a keen interest in <b>open source</b> contributions and DevOps. To expand my skills, I enjoy learning and exploring new technologies as well as contributing in projects that benefit the community. 
 </p>
 
 ## Technologies
@@ -54,14 +54,16 @@ Currently, I am learning how to develop <b>Web applications</b> using the <b>MER
 </details>
 <br>
 
-<div style="display: flex; justify-content: center;">
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham&hide_border=true"/></a>
-  </div>
-  <div>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham&hide_border=true"/></a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats"/></a>
+    </td>
+    <td align="center">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham&hide_border=true" alt="GitHub Streak"/></a>
+    </td>
+  </tr>
+</table>
 
 ## Achievements
 
