@@ -1,20 +1,20 @@
 <h1 align ="center">Hi, I am Mayank</h1>
 
 <p>
-Currently, I am learning how to develop <b>Web applications</b> using the <b>MERN stack</b>. In addition, I have a keen interest in <b>open source</b> contributions and DevOps. To expand my skills, I enjoy learning and exploring new technologies as well as contributing in projects that benefit the community. 
+Currently, I am learning how to develop <b>Web applications</b> using the <b>MERN stack</b>. In addition, I have a keen interest in <b>open source</b> contributions and DevOps. To expand my skills, I enjoy learning and exploring new technologies as well as contributing in projects that benefit the community . 
 </p>
 
 ## Technologies
 
 ### Languages :
 
-![Java](https://img.shields.io/badge/-Java-important?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=openjdk&logoColor=5382a1)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=f0db4f)
 ![Markdown](https://img.shields.io/badge/Markdown-343a40?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Libraries & Framework :
@@ -72,5 +72,5 @@ Currently, I am learning how to develop <b>Web applications</b> using the <b>MER
 ## Support
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/mayank17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+  <a href="https://www.buymeacoffee.com/mayank17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="30" width="121"></a>
 </div>
