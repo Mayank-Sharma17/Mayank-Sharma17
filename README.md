@@ -52,7 +52,6 @@ Currently, I am learning how to develop <b>Web applications</b> using the <b>MER
  </div>
 
 </details>
-<br>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham&hide_border=false" alt="GitHub Stats" height="200" width="380"/></a>
