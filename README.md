@@ -54,16 +54,10 @@ Currently, I am learning how to develop <b>Web applications</b> using the <b>MER
 </details>
 <br>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats"/></a>
-    </td>
-    <td align="center">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham&hide_border=true" alt="GitHub Streak"/></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=gotham&hide_border=false" alt="GitHub Stats" height="200" width="380"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham&hide_border=false" alt="GitHub Streak" height="200" width="401"/></a>
+</div>
 
 ## Achievements
 
