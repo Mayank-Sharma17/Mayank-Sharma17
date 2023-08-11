@@ -1,38 +1,32 @@
-<h1 align ="center">Hi, I am Mayank</h1>
+<h1 align ="center">Hi, I'm Mayank</h1>
 
 <p>
 Currently, I am learning how to develop <b>Web applications</b> using the <b>MERN stack</b>. In addition, I have a keen interest in <b>open source</b> contributions and DevOps. To expand my skills, I enjoy learning and exploring new technologies as well as contributing in projects that benefit the community. 
 </p>
 
-## Languages & Tools
+<h3>Languages & Tools:</h3>
 
-<div align="center">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>               
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40"/>     
+</p>
 
-![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=openjdk&logoColor=#FFFFFF)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C](https://img.shields.io/badge/c-%2300599C?&style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2368a063%20?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-%235C5543?style=for-the-badge&logo=gimp&logoColor=white)
-<!-- ![Markdown](https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white) -->
-<!-- ![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B?style=for-the-badge&logo=nodemon&logoColor=white) -->
-<!-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white) -->
-<!-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
-
-</div>
-
-## My GitHub Stats
+<h3>My GitHub Stats:</h3>
 
 <details>
  <summary>GitHub Trophy</summary>
@@ -60,7 +54,7 @@ Currently, I am learning how to develop <b>Web applications</b> using the <b>MER
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Mayank-Sharma17&theme=gotham&hide_border=false" alt="GitHub Streak" height="220" width="421"/></a>
 </div>
 
-## Achievements
+<h3>Achievements:</h3>
 
 Contributor **@GSSOC 2023**
 <br>
@@ -79,8 +73,6 @@ Contributor **@Hacktoberfest 2022**
 ![Profile Views](https://komarev.com/ghpvc/?username=Mayank-Sharma17&style=flat-square&label=PROFILE+VIEWS&color=248b73)
 
 </div>
-
-<!-- [![An image of @mayank_sharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank_sharma)](https://holopin.io/@mayank_sharma) -->
 
 <!-- ## Support
 
