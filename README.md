@@ -17,10 +17,10 @@ Currently, I am learning how to develop <b>Web applications</b> using the <b>MER
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="assets/expressjs.svg" alt="expressjs" width="40" height="40"/>
+  <img src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/76357eff-0f3d-4e0e-9c7a-8d5539785e39" alt="expressjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" alt="postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="assets/github.svg" alt="github" width="40" height="40"/>
+  <img src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/73207456-1829-4e69-bd11-3f4f145d4808" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/>     
