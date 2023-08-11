@@ -17,7 +17,7 @@ Currently, I am learning how to develop <b>Web applications</b> using the <b>MER
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/b575335a-4a78-4926-846a-ef5d0b199809" alt="expressjs" width="40" height="40"/>
+  <img src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/4b208d2d-5e33-45bf-969c-df17b6058c1a" alt="expressjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" alt="postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/Mayank-Sharma17/Mayank-Sharma17/assets/113251342/3d286f76-ad21-49d8-adb0-bf51ab61ecc1" alt="github" width="40" height="40"/>
