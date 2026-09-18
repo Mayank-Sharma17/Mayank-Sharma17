@@ -1,4 +1,4 @@
-## About Me <img src="./cat4.png" width="30" alt="linus">
+## About Me <img src="./cat4.png" width="35" alt="linus">
 
 * <img src="./linux.png" width="20" alt="linus"> Building products and solving problems with **Java & Spring Boot**
 * 🔭 Exploring **DevOps** and interested in **AI/ML**
