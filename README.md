@@ -4,4 +4,3 @@
 * 🔭 Exploring **DevOps** and interested in **AI/ML**
 * ⚡ Always learning and exploring new technologies
 * 🌱 Away from the keyboard, you'll find me **cubing** or **playing badminton**
-
