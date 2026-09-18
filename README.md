@@ -1,9 +1,7 @@
-## About Me:
+## About Me <img src="./cat4.png" width="30" alt="linus">
 
-- 🌱 I'm currently learning **full-stack web development** with JavaScript and solving problems using **Java**.
-- 👨🏻‍💻 I'm currently working on **react**.
-- 🔭 I enjoy exploring and learning new technologies and contributing to projects.
-- ⚡ I love cubing and playing badminton in my spare time.
+* <img src="./linux.png" width="20" alt="linus"> Building products and solving problems with **Java & Spring Boot**
+* 🔭 Exploring **DevOps** and interested in **AI/ML**
+* ⚡ Always learning and exploring new technologies
+* 🌱 Away from the keyboard, you'll find me **cubing** or **playing badminton**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Mayank-Sharma17&show_icons=true&theme=slateorange&hide_border=false&hide=contribs&show=prs_merged&line_height=20)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Sharma17&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
