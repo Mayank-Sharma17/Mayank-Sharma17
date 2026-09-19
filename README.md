@@ -4,3 +4,10 @@
 * 🔭 Exploring **DevOps** and interested in **AI/ML**
 * ⚡ Always learning and exploring new technologies
 * 🌱 Away from the keyboard, you'll find me **cubing** or **playing badminton**
+
+<details>
+<summary>Tech Stack</summary>
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,javascript,tailwind,react)](https://skillicons.dev)
+</details>
